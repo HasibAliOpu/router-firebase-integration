@@ -8,3 +8,9 @@
 .header nav a:hover {
   color: orange;
 }
+.user-info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-left: 10px;
+}
